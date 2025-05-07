@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "total_businesses": 124,
+    "generated_at": "2025-05-02T15:21:30.709813",
+    "source": "data-with-split-addresses.csv",
+    "average_rating": 4.375630252100841,
+    "total_rated_businesses": 119
+  },
+  "businesses": [
+    {
+      "name": "McFarland's Shoe Repair",
+      "contact": {
+        "phone": "(863) 644-6395",
+        "website": "http://www.mcfarlandsshoerepair.com/"
+      },
+      "location": {
+        "street": "5355 Florida Ave S",
+        "city": "Lakeland",
+        "state": "FL",
+        "zip_code": "33813",
+        "country": "USA"
+      },
+      "business_info": {
+        "description": "McFarland's Shoe Repair is a highly-rated, expert shoe repair service with a 5.0 rating, specializing in high-quality repairs and rebuilds of luxury shoes. With a focus on attention to detail and exceptional craftsmanship, they offer services including resoling, reheeling, and total rebuilds, utilizing premium materials such as JR oak bark-tanned leather soles and dovetail heels. From sole protectors to complete restorations, McFarland's Shoe Repair delivers outstanding results, as evidenced by their satisfied clients and impeccable reputation.",
+        "rating": 5.0
+      },
+      "reviews": [
+        {
+          "type": "positive",
+          "text": "Had a pair of Brooks Brothers cap-toe bluchers resoled and reheeled through the Kirby Allison program, which includes JR oak bark-tanned leather soles, JR dovetail heels (other options also available), complimentary shoe bags and shoe horn, and all work done personally by Jim McFarland.\n\nReceived the shoes back in two weeks. The best work I've ever seen. Will definitely be using the Kirby Allison service again. Thanks for the great work.",
+          "rating": 5.0
+        },
+        {
+          "type": "negative",
+          "text": "Drove all the way from Orlando to take two pair of boots that have needed sole protectors, and a pair of dress shoes, that my mom gave to me before passing, for a total rebuild. They did a terrific job on the sole protectors, but let me tell you about the rebuild, these shoes are better than when they were brand new. I am happy that I found this shoe cobbler and I will be bringing him many more shoes that need rebuilding. Love the work that you do! Keep posting those videos, they are meaningful and make an impact!",
+          "rating": 5.0
+        }
+      ]
+    }
+  ]
+}
